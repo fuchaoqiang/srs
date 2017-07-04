@@ -3,7 +3,7 @@
 ![image](https://github.com/fuchaoqiang/srs/blob/master/img/classdiagram1.png)
 # 时序图
 ![image](https://github.com/fuchaoqiang/srs/blob/master/img/sequence.jpg)
-![image](https://github.com/fuchaoqiang/srs/blob/master/img/sequence.jpg)
+![image](https://github.com/fuchaoqiang/srs/blob/master/img/sequence1.jpg)
 # 数据库结构
 ![image](https://github.com/fuchaoqiang/srs/blob/master/img/db2.jpg)
 # 文件结构
