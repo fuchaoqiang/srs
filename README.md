@@ -1,3 +1,3 @@
 # srs
 # 类图
-![image](https://github.com/fuchaoqiang/srs/img/classdiagram1.PNG)
+![image](https://github.com/fuchaoqiang/srs/blob/master/classdiagram.PNG)
